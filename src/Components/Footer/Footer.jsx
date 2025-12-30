@@ -1,0 +1,13 @@
+import React from 'react'
+import "./Footer.css"
+
+
+const Footer = () => {
+  return (
+    <div className='footer-div'>
+        <h1>Developed by Mahendar</h1>
+    </div>
+  )
+}
+
+export default Footer
